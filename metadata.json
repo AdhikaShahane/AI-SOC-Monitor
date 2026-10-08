@@ -1,0 +1,7 @@
+{
+  "name": "SentinelAI — Security Monitoring & Incident Analysis Platform",
+  "description": "Defensive cybersecurity SOC monitoring platform featuring deterministic rule correlation, synthetic security telemetry, and Gemini AI-powered incident investigation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
