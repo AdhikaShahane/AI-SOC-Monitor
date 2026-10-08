@@ -107,47 +107,7 @@ test/
 
 The structure may change as the project develops.
 
-## Running locally
 
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/AdhikaShahane/AI-SOC-Monitor.git
-cd AI-SOC-Monitor
-```
-
-### 2. Install dependencies
-
-```bash
-npm install
-```
-
-### 3. Configure Gemini
-
-Create a `.env` file using `.env.example` as a reference:
-
-```env
-GEMINI_API_KEY=your_api_key_here
-```
-
-Do not commit the real API key to the repository.
-
-### 4. Start the application
-
-```bash
-npm run dev
-```
-
-Open the local address shown by the development server.
-
-## Useful commands
-
-```bash
-npm run dev      # start the application
-npm run build    # build the application
-npm run preview  # preview the production build
-npm run lint     # TypeScript check
-npm test         # run detection tests
 ```
 
 ## Demo workflow
