@@ -201,6 +201,3 @@ This project is being developed as a practical cybersecurity and AI project with
 
 Possible future improvements include stronger event correlation, configurable detection rules, MITRE ATT&CK mapping, persistent storage, authentication and integrations with real telemetry sources.
 
-## License
-
-No open-source license has been added yet. Until a license is included, normal copyright applies to the repository contents.
